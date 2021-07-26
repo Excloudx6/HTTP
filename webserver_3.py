@@ -86,6 +86,5 @@ class Server():
                 print(error)
                 conn.close()
 
-
 s = Server()
 s.run()
