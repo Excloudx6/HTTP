@@ -1,0 +1,3 @@
+optimise the heck out of the code using multi threading
+currently the server is very slow using large files,
+so optimization will be required.
