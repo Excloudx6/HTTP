@@ -1,3 +1,2 @@
-# file-upload-server
-A HTTP file upload server
-Lets you receive files using HTTP POST requests.
+# jaredbrowser
+A simple web browser created in pure Python
